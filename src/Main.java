@@ -57,3 +57,5 @@ public class Main {
         scanner.close();
     }
 }
+
+// esta todo mal aca
